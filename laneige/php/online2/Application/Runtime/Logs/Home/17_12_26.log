@@ -1,0 +1,292 @@
+[ 2017-12-26T15:49:51+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-26T15:52:30+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-26T15:54:28+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-26T16:03:27+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0330s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0300s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-26T16:03:30+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0300s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0340s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-26T16:13:53+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-12-26T16:14:36+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-12-26T16:25:00+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-12-26T16:25:15+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-12-26T16:25:16+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-12-26T16:25:17+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+ERR: 1146:Table 'test.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-12-26T16:27:01+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0720s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-26T16:31:08+08:00 ] 127.0.0.1 /sanfu/php/Home/Index/saveInfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0050s ]
+SQL: INSERT INTO `sanfu_christmaswish_info` (`to`,`content`,`fromopenid`,`img`,`time`) VALUES ('ewqw','wqqwqwqwqwqwqwqwqwqwqwqwqwqwwwwq',NULL,'H5/sanfu/christmash5/upload/15142770644776.png','2017-12-26 16:31:07') [ RunTime:0.0330s ]
+
+[ 2017-12-26T21:07:21+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-26T21:16:13+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-26T21:17:10+08:00 ] 127.0.0.1 /sanfu/php/Home/Index/saveInfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'test.sanfu_christmaswish_test' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sanfu_christmaswish_test`
+ERR: 1146:Table 'test.sanfu_christmaswish_test' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `sanfu_christmaswish_test`
+
+[ 2017-12-26T21:18:09+08:00 ] 127.0.0.1 /sanfu/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `sanfu_christmaswish_info` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `sanfu_christmaswish_info` WHERE ( fromopenid='' )  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 207 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 208 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 209 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\sanfu\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 210 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

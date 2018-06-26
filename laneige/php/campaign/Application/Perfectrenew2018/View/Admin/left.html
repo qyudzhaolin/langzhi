@@ -1,0 +1,14 @@
+<!-- S-侧边栏 -->
+<div class="siderBar">
+    <php>$username = session('username');</php>
+	<ul>
+        <li class="y_s">
+            <a href="{:U('Admin/index')}" <if condition="$controller_name eq 'Admin' and ($action_name eq 'index' OR $action_name eq 'pcindex')">class="current"</if>>
+            <span class="icon_img"></span>
+            <span class="icon_text">信息列表</span>
+            </a>
+        </li>
+      
+	</ul>
+</div>
+<!-- E-侧边栏 -->

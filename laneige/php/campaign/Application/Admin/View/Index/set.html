@@ -1,0 +1,171 @@
+<div class="mainContent ">
+<script src="__JS__/jquery.form.js"></script>
+<style>
+#Submit{
+	margin-left:50px;
+}
+#loading{
+	display:none
+}
+.form-group{
+	overflow:hidden;
+}
+.form-group label{
+	margin-top:5px;
+    text-align: right;
+}
+h3{
+	padding:15px 0;
+	text-indent:1em;
+	font-weight:bold;
+}
+.file_click {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    opacity: 0;
+    cursor: pointer;
+}
+</style>
+	<div class="panel panel-primary">
+	    <div class="panel-heading">
+		   <h3 class="panel-title">信息设置</h3>
+	    </div>
+	    <div class="panel-body">
+		   
+			<div>
+                   <div class="form-group">
+				        <label for="target_url" class="col-sm-1 control-label">短信内容：</label>
+				        <div class="col-sm-5">
+				          <textarea rows="5" cols="100" id="sms" placeholder="请输入短信内容">{$info.sms}</textarea>
+				          <br/><span style="color:red">其中counterName这个替换成店铺名称，例：9/10-9/30期间至兰芝counterName店</span>
+				        </div>
+				    </div>
+				    
+				    <div class="form-group">
+				        <label for="share_title" class="col-sm-1 control-label">分享标题：</label>
+				        <div class="col-sm-5">
+				          <input type="text" class="form-control" id="share_title" name="share_title" value="{$info.share_title}" placeholder="请输入分享标题">
+				        </div>
+				    </div>
+				    
+				    <div class="form-group">
+				        <label for="share_content" class="col-sm-1 control-label">分享小字：</label>
+				        <div class="col-sm-5">
+				          <input type="text" class="form-control" id="share_desc" name="share_desc" value="{$info.share_desc}" placeholder="请输入分享小字">
+				        </div>
+				    </div>
+				     <div class="form-group">
+				        <label for="share_content" class="col-sm-1 control-label">朋友圈文案：</label>
+				        <div class="col-sm-5">
+				          <input type="text" class="form-control" id="share_title_time" name="share_title_time" value="{$info.share_title_time}" placeholder="请输入朋友圈文案">
+				        </div>
+				    </div>
+				    <div class="form-group">
+				        <label for="share_content" class="col-sm-1 control-label">分享图片：</label>
+				        <div class="col-sm-5">
+					    	<form id="formfile" action="" method="post" enctype="multipart/form-data">
+								<input class="form-control input-sm" type="text" placeholder="点击上传图片" value="{$info.share_img}"  >
+								<input type="file" class="file_click" name="file">
+							    <input type="hidden" class="filepath" value="H5/laneige/ap2017/home/images/" name="filepath"/>
+							</form>
+							<input type="hidden" class="share_img" value="{$info.share_img}" id="share_img"/>
+				    	</div>
+				    </div>
+			        <div class="form-group">
+				      <button type="button" class="btn btn-success" id="Submit">提交</button>&nbsp;&nbsp;&nbsp;
+				      <span id="loading"><img src="__IMG__/loading.gif" /></span>
+				      <span id="ret_url" style="display:none"></span>
+				    </div>
+			   <br>
+			</div>
+		</div>
+
+	</div>	
+</div>
+<script type="text/javascript" src="__JS__/moment.min.js"></script>
+<script type="text/javascript" src="__JS__/datetimepicker.js"></script>
+<script type="text/javascript">
+$(function(){
+
+	$("body").on('change', '.file_click', function(event) {
+		event.preventDefault();
+		var obj = $(this);
+		obj.siblings('.input-sm').attr("placeholder","上传中请稍后....");
+		var prospectus=obj.val();
+		if(prospectus.length>0){
+			$("#formfile").ajaxSubmit({
+	          url: "http://api.max-digital.cn/Api/oss/upload",
+	          type:'post',
+	          dataType: 'json',
+	          contentType: "application/json; charset=utf-8",
+	          success:function(data){
+	            if(data[0].oss_file_url!=""){
+	            	obj.siblings('.input-sm').val(data[0].oss_file_url);
+	            	$('#share_img').val(data[0].oss_file_url);
+	                alert("上传文件成功");
+	            }else{
+	              alert(data.msg);
+	              obj.siblings('.input-sm').attr("placeholder","点击上传文件图片");
+	            }            
+	          },error:function(){
+	            alert("上传文件失败");
+	            obj.siblings('.input-sm').attr("placeholder","点击上传文件图片");
+	          }
+	        })
+		}else{
+			obj.next(".file_id").val(0);
+		}
+	});
+	
+	//提交
+	var sub_click = true;
+	$("#Submit").click(function(event) {
+		//银行名称
+		if(sub_click){
+			sub_click = false;
+			var sms=$("#sms").val();
+			var share_title=$("#share_title").val();
+			var share_desc=$("#share_desc").val();
+			var share_title_time=$("#share_title_time").val();
+			var share_img=$("#share_img").val();
+			if (sms=="") {
+				alert("请填写短信内容1");
+				return false;
+			};
+			if (share_title=="") {
+				alert("请填写分享标题");
+				return false;
+			};
+			if (share_desc=="") {
+				alert("请填写分享小字");
+				return false;
+			};
+			if (share_img=="") {
+				alert("请上传分享图片");
+				return false;
+			};
+			$.ajax({
+				url:"{:U('Index/set_save')}",
+				type:'post',
+				data:{
+					'sms':sms,'share_title':share_title,'share_desc':share_desc,'share_img':share_img,'share_title_time':share_title_time
+				},
+				dataType:'json',
+				success:function(res){
+					sub_click = true;
+					if(res.status==1){
+						alert("操作成功");
+					}else{
+						alert("操作失败");
+					}
+				}
+			});
+		}
+	});
+})
+</script>
+	

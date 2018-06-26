@@ -1,0 +1,1775 @@
+[ 2017-12-29T00:24:00+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T00:24:42+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T00:33:25+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T00:34:13+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T00:48:53+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T00:50:31+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T00:50:53+08:00 ] 127.0.0.1 /royal/php/index.php/Home/Index/saveInfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `royal_cat_test` [ RunTime:0.0110s ]
+SQL: INSERT INTO `royal_cat_test` (`type`,`content`,`time`,`img`) VALUES ('2','541546','2017-12-29 00:50:51','data:image/jpeg;base64,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2gvVdp/EPinzG0F6rtP4h8U5nYzsnpc9rp9LOi/XI/Ik/an0s6L9cj8iT9q7/MbQXqu0/iHxT5jaC9V2n8Q+KczsZ2T0ue10+lnRfrkfkSftT6WdF+uR+RJ+1d/mNoL1XafxD4p8xtBeq7T+IfFOZ2M7J6XPa6fSzov1yPyJP2p9LWi/XLfyJP2rv8xtBeq7T+IfFPmPoP1ZafxD4pzOxnZPS57XT6WtF+uW/kSftXI7WdGHpeB+RJ+1d/mRoP1ZafxD4rkaK0KOlttQ/wDcPirzOyZ2V0ue1w3tT0e7pdwf+xJ+1fZnaVpWT6lzz/2JP2rq3R2iG9LfbB/7x8V9G6W0aw5bR20e54+KvxsKp2Z+mK/ayIddael+pcM5/wCk8f6LPh1Ja5sd3VZz/wBN3wWBHYtKRY7unt7ceTx8VlRUOn4sd2KJuPKQfFWN71c9f+J+je+uGyiuVLL/AIcoP2FZDZWP6Fa9jrSz6ktIPdIPivs2st7fq1VMP+6PisnLVufpyy3uwxxHgMqE6f1bXXC4tjrKRkFN3JmMga/BAaCcHGOM4PtUtNfQkEGrpsH/AKrfisGlgslK5jqeSljLAQ3Ew4HljOFJz6Nluu3TTVFcZmfJhWnUpuADhA5ondMKZuRud3Z2uDwfqncDjnoPA8LCsGsJq+qfSVVBLHVCOaRojewteI3Na4A7uuXcE8cHnhbmKlsMLpnRfImOmDhIWyNBcHEl3j4kkn28rq2jsDQQ35C0GH5PgPaAI+PRHPA4HA8gkZZb9nj8LQs1tUSWW8XBlvcGUJcAJJWDe5riNhAcSMt2kHxzxnjP30Tq2bUNyr6WZlKz5N0MMpcT6R6ggY4x9ufs3UlPYZGSNd8g2yRCBwD2jMY6N4PQZPC4t1NYrdM+WhNHDI8bXObIMkfepx6s6rtibdURRiqfLs3IOUWN/EKL/wDbp/zW/FFk41dIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIP//Z') [ RunTime:0.0390s ]
+
+[ 2017-12-29T00:57:34+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T00:57:50+08:00 ] 127.0.0.1 /royal/php/index.php/Home/Index/saveInfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] mkdir(): No such file or directory D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 157 行.
+NOTIC: [2] fopen(/Public/upload/15144802695906.jpg): failed to open stream: No such file or directory D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 159 行.
+NOTIC: [2] fwrite() expects parameter 1 to be resource, boolean given D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 160 行.
+NOTIC: [2] fclose() expects parameter 1 to be resource, boolean given D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 161 行.
+SQL: SHOW COLUMNS FROM `royal_cat_test` [ RunTime:0.0100s ]
+SQL: INSERT INTO `royal_cat_test` (`type`,`content`,`time`,`img`) VALUES ('1','23r41q34f3q4','2017-12-29 00:57:49','15144802695906.jpg') [ RunTime:0.0370s ]
+
+[ 2017-12-29T10:06:32+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined variable: signPackage D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T10:06:47+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T10:07:44+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T10:10:00+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T10:10:08+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T10:53:37+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T10:54:41+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T10:56:00+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T10:56:15+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T10:56:24+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T10:59:52+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:00:23+08:00 ] 127.0.0.1 /royal/php/index.php/Home/Index/saveInfo.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `royal_cat_test` [ RunTime:0.0090s ]
+SQL: INSERT INTO `royal_cat_test` (`type`,`content`,`time`,`img`) VALUES ('1','sdfasdfasdf','2017-12-29 11:00:22','http://campaign.royal-canin.cn/Public/upload/15145164226095.jpg') [ RunTime:0.0420s ]
+
+[ 2017-12-29T11:09:40+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:09:41+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:16:49+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:16:50+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:20:18+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:20:37+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:20:40+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:20:43+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:20:53+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:29:03+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 159 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 174 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 197 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 212 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:35:11+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T11:37:12+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:37:13+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T11:37:14+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T11:48:42+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T11:49:55+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T11:55:05+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T16:17:19+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T16:23:53+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:03:41+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:05:18+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:06:39+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:06:40+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T17:06:41+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:09:42+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:11:59+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:15:29+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 38 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T17:19:19+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:21:09+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:34:43+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T17:47:23+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T18:04:22+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T18:06:17+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T18:06:22+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T18:26:19+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-12-29T18:26:24+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T18:26:24+08:00 ] 127.0.0.1 /royal/php/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: HTTP_USER_AGENT D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 151 行.
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-12-29T18:51:33+08:00 ] 127.0.0.1 /royal/php/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: postdata D:\phpStudy\WWW\royal\php\Application\Home\Controller\IndexController.class.php 第 40 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 19 行.
+NOTIC: [8] Undefined variable: isold D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 20 行.
+NOTIC: [8] Undefined variable: openid D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 148 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 155 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 156 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 157 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 158 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 173 行.
+NOTIC: [8] Undefined index: appId D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 193 行.
+NOTIC: [8] Undefined index: timestamp D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 194 行.
+NOTIC: [8] Undefined index: nonceStr D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 195 行.
+NOTIC: [8] Undefined index: signature D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 196 行.
+NOTIC: [8] Undefined variable: nickname D:\phpStudy\WWW\royal\php\Application\Runtime\Cache\Home\2a94b8bda04ff446dcedd42276fc99ee.php 第 211 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

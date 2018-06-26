@@ -1,0 +1,64 @@
+[ 2017-11-20T14:44:31+08:00 ] ::1 /etude/php/sky/index.php/Home/Index/saveInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+
+[ 2017-11-20T14:44:58+08:00 ] ::1 /etude/php/sky/index.php/Home/Index/saveInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-11-20T14:45:01+08:00 ] ::1 /etude/php/sky/index.php/Home/Index/saveInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+SQL: SHOW COLUMNS FROM `etd_sky_info` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `etd_sky_info` WHERE `phone` = '1234567890' AND `date` = '2017-12-01'  [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `etd_sky_info` WHERE `date` = '2017-12-01' LIMIT 1   [ RunTime:0.0035s ]
+SQL: INSERT INTO `etd_sky_info` (`name`,`phone`,`date`,`system_date`,`cdate`) VALUES ('test','1234567890','2017-12-01','2017-11-20','1511160301') [ RunTime:0.0047s ]
+
+[ 2017-11-20T14:45:49+08:00 ] ::1 /etude/php/sky/index.php/Home/Index/saveInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `etd_sky_info` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `etd_sky_info` WHERE `phone` = '1234567890' AND `date` = '2017-12-01'  [ RunTime:0.0041s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `etd_sky_info` WHERE `date` = '2017-12-01' LIMIT 1   [ RunTime:0.0041s ]
+
+[ 2017-11-20T14:46:09+08:00 ] ::1 /etude/php/sky/index.php/Home/Index/saveInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000312s ]
+SQL: SHOW COLUMNS FROM `etd_sky_info` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `etd_sky_info` WHERE `phone` = '1234567891' AND `date` = '2017-12-01'  [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `etd_sky_info` WHERE `date` = '2017-12-01' LIMIT 1   [ RunTime:0.0038s ]
+SQL: INSERT INTO `etd_sky_info` (`name`,`phone`,`date`,`system_date`,`cdate`) VALUES ('test','1234567891','2017-12-01','2017-11-20','1511160369') [ RunTime:0.0041s ]
+
+[ 2017-11-20T14:50:49+08:00 ] ::1 /etude/php/sky/index.php/Home/Index/saveInfo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000346s ]
+SQL: SHOW COLUMNS FROM `etd_sky_info` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `etd_sky_info` WHERE `phone` = '1234567892' AND `date` = '2017-12-01'  [ RunTime:0.0046s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `etd_sky_info` WHERE `system_date` = '2017-11-20' LIMIT 1   [ RunTime:0.0039s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `etd_sky_info` WHERE `date` = '2017-12-01' LIMIT 1   [ RunTime:0.0043s ]
+SQL: INSERT INTO `etd_sky_info` (`name`,`phone`,`date`,`system_date`,`cdate`) VALUES ('test','1234567892','2017-12-01','2017-11-20','1511160649') [ RunTime:0.0043s ]
+

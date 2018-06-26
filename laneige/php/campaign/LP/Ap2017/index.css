@@ -1,0 +1,229 @@
+@charset "utf-8";
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,textarea,p,blockquote,th,td,a{padding:0;margin:0;color:#66686d;text-decoration:none;}
+*{font:24px/150% 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;-webkit-text-size-adjust:none;-webkit-tap-highlight-color:rgba(255,255,255,0);-webkit-tap-highlight-color:transparent;}
+table{border-collapse:collapse;border-spacing:0;}
+fieldset,img{border: 0;}
+address,caption,cite,code,dfn,em,th,var{font-weight:normal;font-style:normal;}
+article, aside, footer, header, hgroup, nav, section, figure, figcaption { display: block;}
+ol,ul{list-style:none outside none;}
+caption{text-align:left;}
+h1,h2,h3,h4,h5,h6{font-weight:normal;font-size:100%;}
+q:before,q:after{content:'';}
+a{outline:none;}
+*,*:before,*:after{box-sizing:border-box;-webkit-box-sizing:border-box;}
+img{vertical-align:top;}
+a, img ,p{-webkit-touch-callout:none;}
+.clear{clear:both;}
+.part{position: relative; width: 100% }
+.part img{position: absolute;
+    /*height: 100%;*/
+    width: 100%;
+    left: 0;
+    top: 0;}
+
+/*大屏 >=1200*/
+iframe{position: absolute}
+    .container{
+        width: 1200px;
+        height: 4827px;
+        margin:0 auto;
+        position: relative;
+    }
+    .btn{
+        width: 210px;
+        height: 47px;
+        position: absolute;
+        /*background: pink;*/
+        /*top: 280px;*/
+        /*left: 110px;*/
+    }
+
+    .s1{
+        height: 804px;
+        width: 100%;
+        /*background: url("images/bg_01.jpg") no-repeat;*/
+        /*background-size:100% 100%;*/
+    }
+    .apply{
+        top: 323px;
+        left: 50%;
+        margin-left: -51px;
+    }
+    .s2 {
+        height: 649px;
+        width: 100%;
+        /*background: url("images/bg_02.jpg") no-repeat;*/
+        /*background-size:100% 100%;*/
+    }
+    .s2 iframe{
+        margin-left:25PX;
+        height: 628px;
+        width: 1151px;
+    }
+    .s3 iframe{
+        margin-top: 193px;
+        margin-left: 256PX;
+        height: 374px;
+        width: 685px;
+    }
+    .s3 {
+        border-top: 1px solid transparent;
+        height: 618px;
+        width: 100%;
+        /*background: url("images/bg_03.jpg") no-repeat;*/
+        /*background-size:100% 100%;*/
+    }
+    .s4{
+
+        height: 945px;
+        width: 100%;
+        /*background: url("images/bg_04.jpg") no-repeat;*/
+        /*background-size:100% 100%;*/
+    }
+    .buy1{
+        bottom: 93px;
+        left: 50%;
+        margin-left: -104px;
+    }
+    .s5{
+
+        height: 758px;
+        width: 100%;
+    }
+
+    .buy3{
+        right: 105px;
+        top: 486px;
+        width: 204px;
+        height: 45px;
+    }
+    .buy2{
+        left: 123px;
+        top: 486px;
+        width:204px;
+        height: 45px;
+    }
+    .s6{
+        height: 594px;
+        width: 100%;
+    }
+
+    .s7{
+        position: relative;
+        height: 458px;
+        width: 100%;
+    }
+    .buy4{
+        left: 84px;
+        top: 327px;
+        width: 208px;
+        height: 45px;
+    }
+    .buy5{
+        right: 83px;
+        top: 327px;
+        width: 206px;
+        height: 45px;
+    }
+.cover{width:100%;height:100%;position:absolute;left:0;top:0;background:#000;filter:alpha(opacity=64);opacity:0.65;display:none;z-index: 17}
+.ercode{position: fixed; width: 391px;top:146px;display: none;left:50%; margin-left:-191px;z-index: 18}
+/*手机设备 <=768px*/
+
+   .mobile .container{
+        width: 640px;
+        width: 640px;
+        height: 4115px;
+        margin:0 auto;
+
+    }
+    .mobile .btn{
+        width: 171px;
+        height: 45px;
+        position: absolute;
+        /*background: pink;*/
+        /*top: 280px;*/
+        /*left: 110px;*/
+    }
+    .mobile .s1{
+        height: 543px;
+        width: 100%;
+    }
+    .mobile .apply{
+        top: 232px;
+        left: 50%;
+        margin-left: -84px;
+    }
+    .mobile .s2{
+        height: 369px;
+        width: 100%;
+    }
+    .mobile .s2 iframe{
+        margin-top: 21px;
+        margin-left: 45PX;
+        height: 305px;
+        width: 561px;
+
+    }
+    .mobile .s3 iframe{
+        height: 305px;
+        width: 556px;
+        margin-top: 117px;
+        margin-left: 48PX;
+    }
+    .mobile .s3{
+        border-top: 1px solid transparent;
+        height: 454px;
+        width: 100%;
+    }
+    .mobile .s4{
+        height: 731px;
+        width: 100%;
+    }
+    .mobile .buy1{
+        bottom: 105px;
+        left: 50%;
+        margin-left: -85px;
+    }
+    .mobile .s5{
+        position: relative;
+        height: 926px;
+        width: 100%;
+    }
+
+    .mobile .buy3{
+        right: 49px;
+        top: 732px;
+        width: 170px;
+        height: 45px;
+    }
+    .mobile .buy2{
+        left: 87px;
+        top: 440px;
+        width:170px;
+        height: 45px;
+    }
+    .mobile .s6{
+        height: 363px;
+        width: 100%;
+    }
+
+    .mobile .s7{
+        position: relative;
+        height: 730px;
+        width: 100%;
+    }
+    .mobile .buy4{
+        left: 395px;
+        top: 311px;
+        width: 170px;
+        height: 45px;
+    }
+    .mobile  .buy5{
+        left:75px;
+        top: 600px;
+        width: 170px;
+        height: 45px;
+    }
+
+
+

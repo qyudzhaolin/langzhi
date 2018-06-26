@@ -1,0 +1,97 @@
+<div class="mainContent ">
+<style>
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+    color: #555;
+    cursor: default;
+    background-color: #EAEAEA;
+    border: 1px solid #ddd;
+    border-bottom-color: transparent;
+}
+</style>
+<link rel="stylesheet" type="text/css"  href="__CSS__/datetimepicker.min.css" />
+	<div class="panel panel-primary">
+	    <div class="panel-heading">
+		   <h3 class="panel-title">信息列表</h3>
+	    </div>
+	    <div class="panel-body">
+		   
+			<div>
+			   <form  class="form-inline"  action="/Admin/Index/index" method="get" role="form"  id="searchform">
+                   <div class="form-group">
+                       <label class="sr-only" for="phone">手机</label>
+                       <input type="text" class="form-control" name="phone" id="phone"  value="{$search.phone}" placeholder="请输入手机">
+                   </div>
+
+				   <div class="form-group">
+					   <label class="sr-only" for="start_time">开始时间</label>
+					   <input type="text" class="form-control" name="start_time" class="daterangepicker" id="start_time" value="{$search.start_time}" placeholder="请选择开始时间">
+				   </div>
+				   <div class="form-group">
+					   <label class="sr-only" for="end_time">截止时间</label>
+					   <input type="text" class="form-control" name="end_time" class="daterangepicker" id="end_time" value="{$search.end_time}" placeholder="请选择截止时间">
+				   </div>
+                   <button type="button" id="searchbtn" class="btn btn-primary">查询</button>
+                   <button type="button" id="export" class="btn btn-primary">导出</button>
+			   </form>
+			   <br>
+			</div>
+			<table class="table table-striped table-bordered table-hover ">
+				<thead>
+				  <tr>
+					 <th width="7%" class="text-center">手机</th>
+					 <th width="7%" class="text-center">城市</th>
+					 <th width="10%" class="text-center">专柜</th>
+					 <th width="15%" class="text-center">提交时间</th>
+				  </tr>
+			   </thead>
+			   <tbody>
+				<volist name="list" id="vo">
+				  <tr>
+					 <td class="text-center">{$vo.phone}</td>
+					 <td class="text-center">{$vo.city}</td>
+					 <td class="text-center">{$vo.shop}</td>
+					  <td class="text-center">{$vo.cdate}</td>
+				  </tr>
+				</volist>
+			   </tbody>
+			</table>
+			<div class="text-right">{$page}</div>
+		</div>
+
+	</div>	
+</div>
+<script type="text/javascript" src="__JS__/moment.min.js"></script>
+<script type="text/javascript" src="__JS__/datetimepicker.js"></script>
+<script type="text/javascript">
+$(function(){
+	//日历控件初始化
+	 /* $('#start_time').datetimepicker({
+		language:  'fr',
+		format:'yyyy-mm-dd',
+        weekStart: 1,
+		autoclose: 1,
+		todayHighlight: 1,
+		minView: 2
+	 });
+     $('#end_time').datetimepicker({
+		language:  'fr',
+		format:'yyyy-mm-dd',
+        weekStart: 1,
+		autoclose: 1,
+		todayHighlight: 1,
+		minView: 2
+	 }); */
+
+	//查询
+    $('#searchbtn').click(function () {
+        $('#searchform').attr('action',"/Admin/Index/index");
+        $('#searchform').submit();
+    })
+	//导出
+	$('#export').click(function () {
+        $('#searchform').attr('action',"/Admin/Index/export");
+        $('#searchform').submit();
+    });
+})
+</script>
+	

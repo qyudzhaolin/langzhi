@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>粉嫩荔枝 青春正好</title>
+		<meta charset="utf-8">
+		<meta name="renderer" content="webkit">
+		<script>
+
+			var nowTime = new Date().getTime();
+			var star;
+			var showH5 = false;
+			var isFinal = false;
+			// 9/22
+			if(nowTime<1506096000000){
+				star = "xwz";
+			}else if(nowTime>=1506096000000&&nowTime<1507478400000){//9/23~10/8
+				star = "lsj";
+				if(nowTime<1506528000000){
+					star ="lsj btntype1";
+				}else if(nowTime>=1506528000000){//9/28凌晨~ 10/9 get许魏洲同款
+					star ="lsj btntype2";
+				}
+			}else{
+				star = "xwz";
+				if(nowTime<1507564800000){//10/9 一天的
+					star = "xwz btntype1";
+				}else if(nowTime>=1507564800000&&nowTime<1510329600000){ //10月10日开始
+					star = "xwz btntype2";
+				}else{
+					star = "xwz final"
+				}
+			}
+			// 10/10
+			if(nowTime >= 1507564800000){
+				showH5 = true;
+			}
+			if(nowTime>=1510329600000){
+				// console.log("1111");
+				isFinal = true;
+				showH5 = false;
+			}
+			// isFinal = true;
+			document.querySelector("html").setAttribute('class',star);
+			function isPc(){
+			   var userAgentInfo = navigator.userAgent;
+			   var Agents = new Array("Android", "iPhone", "SymbianOS", "Windows Phone", "iPad", "iPod");
+			   var flag = true;
+			   for (var v = 0; v < Agents.length; v++) {
+				   if (userAgentInfo.indexOf(Agents[v]) > 0) { flag = false; break; }
+			   }
+			   return flag;
+			}
+			!(function(a,b,c,d,e,f){var g="",h=a.sessionStorage,i="__admaster_ta_param__",j="tmDataLayer"!==d?"&dl="+d:"";if(a[f]={},a[d]=a[d]||[],a[d].push({startTime:+new Date,event:"tm.js"}),h){var k=a.location.search,l=new RegExp("[?&]"+i+"=(.*?)(&|#|$)").exec(k)||[];l[1]&&h.setItem(i,l[1]),l=h.getItem(i),l&&(g="&p="+l+"&t="+ +new Date)}var m=b.createElement(c),n=b.getElementsByTagName(c)[0];m.src="//tag.cdnmaster.cn/tmjs/tm.js?id="+e+j+g,m.async=!0,n.parentNode.insertBefore(m,n)})(window,document,"script","tmDataLayer","TM-941408","admaster_tm");
+
+			if(isPc()){
+
+			}else{
+				document.querySelector("html").setAttribute('class',star+' mobile');
+				if(/Android (\d+\.\d+)/.test(navigator.userAgent)){
+						var version = parseFloat(RegExp.$1);
+						if(version>2.3){
+							var phoneScale = parseInt(window.screen.width)/640;
+							document.write('<meta name="viewport" content="width=640, minimum-scale = '+ phoneScale +', maximum-scale = '+ phoneScale +', target-densitydpi=device-dpi">');
+						}else{
+							document.write('<meta name="viewport" content="width=640, target-densitydpi=device-dpi">');
+						}
+				}else{
+						document.write('<meta name="viewport" content="width=640, user-scalable=no, target-densitydpi=device-dpi">');
+				}
+			}
+		</script>
+		<script>
+		var _hmt = _hmt || [];
+		(function() {
+		  var hm = document.createElement("script");
+		  hm.src = "https://hm.baidu.com/hm.js?bb82808e15a42ca2bb5ea30927e12539";
+		  var s = document.getElementsByTagName("script")[0];
+		  s.parentNode.insertBefore(hm, s);
+		})();
+		</script>
+		<link rel="stylesheet" type="text/css" href="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/css/style.css">
+		<script type="text/javascript" src="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/js/jquery-1.11.1.min.js"></script>
+	</head>
+	<body>
+		<div class="wrap">
+			<div class="part1">
+				<!-- <a class="btn" onclick="_smq.push(['custom','act','01_H5_1']);" href="http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-morning-mask.mask.html"></a> -->
+				<a class="btn" onclick="_smq.push(['custom','act','01_H5_1']);"></a>
+				<img src="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/images/pc/ercode_1.jpg">
+			</div>
+			<div class="part2">
+				 <div class="pcvideo">
+					<iframe height='330' width='601' src='http://player.youku.com/embed/XMjk4MzI5OTc3Ng=='  frameborder=0 'allowfullscreen'></iframe>
+				</div>
+				<div class="mbvideo">
+					<iframe height='247' width='456' src='http://player.youku.com/embed/XMjk4MzI5OTc3Ng=='  frameborder=0 'allowfullscreen'></iframe>
+				</div>
+				<img src="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/images/dance.gif" id="dance">
+
+				<a class="btn btn1"></a>
+				<a class="btn btn2" onclick="_smq.push(['custom','act','02_H5_2']);" href="http://clickc.admaster.com.cn/c/a93760,b1969253,c3249,i0,m101,8a2,8b2,h"></a>
+				<img src="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/images/pc/ercode_2.jpg" class="img1">
+			</div>
+			<div class="part3">
+			</div>
+			<div class="part4">
+				<img src="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/images/side_cover.jpg" class="p4_cover">
+				<a class="btn" onclick="_smq.push(['custom','act','04_buy_ cleaner']);" href="http://www.laneige.com/cn/zh/product/skincare/line/view.laneige-fresh-calming-gel-cleanser.cleaning_care.html"></a>
+			</div>
+			<div class="part5">
+				<a class="btn b1" onclick="_smq.push(['custom','act','05_buy_ toner']);" href="http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-toner.skin_refiner.html"></a>
+				<a class="btn b2" onclick="_smq.push(['custom','act','06_buy_ serum']);" href="http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-serum.essence.html"></a>
+			</div>
+			<div class="part6">
+				<!-- <a class="btn" onclick="_smq.push(['custom','act','07_buy_ mask']);" href="http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-morning-mask.mask.html"></a> -->
+				<a class="btn" onclick="_smq.push(['custom','act','07_buy_ mask']);"></a>
+			</div>
+			<div class="part7">
+				<a class="btn b1" onclick="_smq.push(['custom','act','08_promotion1']);" href="http://www.laneige.com/cn/zh/shop/set/shop_set_product_preview.do?i_sProductcd=SPR20160421000005164"></a>
+				<a class="btn b2" onclick="_smq.push(['custom','act','09_promotion2']);" href="http://www.laneige.com/cn/zh/shop/set/shop_set_product_preview.do?i_sProductcd=SPR20160421000005165"></a>
+			</div>
+		</div>
+		<script>
+			$(".part2 .btn2").show();
+			$(".part2 .btn1").hide();
+			if(nowTime>=1506528000000&&nowTime<1507564800000){
+				$(".part1 .btn").attr("href","http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-morning-mask.mask.html");
+			}
+			if(nowTime>=1506528000000){
+				$(".part6 .btn").attr("href","http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-morning-mask.mask.html").css("background","none");
+			}
+			if(showH5){
+
+				//链到立即申领
+				$(".part1 .btn").attr("href","http://clickc.admaster.com.cn/c/a93760,b1985091,c3249,i0,m101,8a1,8b2,h");
+				//链到跳舞
+				$(".part2 .btn2").attr("href","http://clickc.admaster.com.cn/c/a93760,b1969253,c3249,i0,m101,8a2,8b2,h");
+			}
+			if(isFinal){
+				$(".part1 .btn").attr("href","http://www.laneige.com/cn/zh/product/skincare/category/view.laneige-fresh-calming-morning-mask.mask.html");
+				$(".part2 .btn").attr("href","http://v.youku.com/v_show/id_XMzAyMzY3NTIzNg==.html?spm=a2hzp.8");
+			}
+			if(!$("html").hasClass("mobile")){
+				if(showH5){
+					$(".part1 a").click(function(e){
+						e.preventDefault();
+						$(this).siblings("img").fadeIn();
+					});
+
+				}
+				$(".part2 a").click(function(e){
+					e.preventDefault();
+					if(isFinal){
+						location.href = "http://v.youku.com/v_show/id_XMzAyMzY3NTIzNg==.html?spm=a2hzp.8253869.0.0";
+					}else{
+						$(this).siblings(".img1").fadeIn();
+					}
+				});
+			}
+		</script>
+		<!--[if IE 6]>
+		<script type="text/javascript" src="http://laneige.cdn.max-digital.cn/H5/laneige/freshcalminglp/home/js/DD_belatedPNG_0.0.8a-min.js"></script>
+			<script type="text/javascript">
+				DD_belatedPNG.fix('*');
+		   		document.execCommand('BackgroundImageCache',false,true);
+			</script>
+		<![endif]-->
+	</body>
+</html>

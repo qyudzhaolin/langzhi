@@ -1,0 +1,493 @@
+@charset "utf-8";
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+textarea,
+p,
+blockquote,
+th,
+td,
+a {
+    padding: 0;
+    margin: 0;
+    color: rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+* {
+    font: 24px/150% 'SimSun', 'Helvetica Neue', Helvetica, STHeiTi, sans-serif;
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+    -webkit-tap-highlight-color: transparent;
+    color: rgba(0, 0, 0, 0.8);
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+fieldset,
+img {
+    border: 0;
+}
+
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+th,
+var {
+    font-weight: normal;
+    font-style: normal;
+}
+
+article,
+aside,
+footer,
+header,
+hgroup,
+nav,
+section,
+figure,
+figcaption {
+    display: block;
+}
+
+ol,
+ul {
+    list-style: none outside none;
+}
+
+caption {
+    text-align: left;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: normal;
+    font-size: 100%;
+}
+
+q:before,
+q:after {
+    content: '';
+}
+
+a {
+    outline: none;
+}
+
+
+/* *,*:before,*:after{box-sizing:border-box;-webkit-box-sizing:border-box;} */
+
+img {
+    vertical-align: top;
+}
+
+a,
+img,
+p {
+    -webkit-touch-callout: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+html,
+body {
+    height: 1040px;
+}
+
+::-webkit-input-placeholder {
+    color: #646464;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"],
+input {
+    -webkit-appearance: none;
+    resize: none;
+    outline: none;
+    border: none;
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin: 0;
+}
+
+.box {
+    width: 640px;
+    height: 100%;
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+}
+
+section {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+}
+
+
+/**********
+    s1
+**********/
+
+#s1 canvas {
+    /* display: none; */
+}
+
+
+/**********
+    s2
+**********/
+
+#s2 .form {
+    width: 433px;
+    height: 165px;
+    position: absolute;
+    top: 435px;
+    left: 104px;
+}
+
+#s2 .form p {
+    width: 100%;
+    height: 63px;
+    line-height: 63px;
+    position: relative;
+    margin-bottom: 24px;
+    text-align: center;
+}
+
+#s2 .form p span {
+    width: 100%;
+    height: 63px;
+    line-height: 63px;
+    color: #646464;
+    font-size: 27px;
+    text-indent: 1em;
+    display: block;
+}
+
+#s2 .form p input {
+    width: 100%;
+    height: 63px;
+    line-height: 63px;
+    background: none;
+    border: none;
+    text-indent: 1em;
+    text-align: center;
+}
+
+#s2 .form p select {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+}
+
+#s2 .tiaokuan_p {
+    position: absolute;
+    top: 613px;
+    width: 470px;
+    left: 88px;
+}
+
+#s2 .tiaokuan_p a,
+.checkbox {
+    display: inline-block;
+    position: absolute;
+}
+
+#s2 .tiaokuan_p a {}
+
+#s2 .tiaokuan {
+    width: 78px;
+    height: 22px;
+    /* position: absolute; */
+    /* top: 854px; */
+    left: 206px;
+}
+
+#s2 .yinsi {
+    width: 84px;
+    height: 22px;
+    /* position: absolute; */
+    /* top: 854px; */
+    left: 297px;
+}
+
+#s2 .checkbox {
+    width: 19px;
+    height: 17px;
+    /* position: absolute;
+    top: 860px;
+    left: 77px; */
+}
+
+#s2 .checked {
+    background: url(../images/checked.png) no-repeat;
+}
+
+#s2 .submit_btn {
+    width: 268px;
+    height: 56px;
+    position: absolute;
+    top: 731px;
+    left: 184px;
+}
+
+#s2 .rule_btn {
+    width: 100px;
+    height: 56px;
+    position: absolute;
+    top: 800px;
+    left: 272px;
+}
+
+
+/**********
+    s3
+**********/
+
+#s3 a {
+    position: absolute;
+}
+
+#s3 .get_kajuan {
+    height: 55px;
+    width: 273px;
+    top: 498px;
+    left: 123px;
+}
+
+#s3 .rule_btn {
+    height: 28px;
+    width: 95px;
+    top: 573px;
+    left: 208px;
+}
+
+
+/**********
+    s4
+**********/
+
+#s4 img {
+    position: absolute;
+}
+
+#s4 .first {}
+
+#s4 .code {}
+/**********
+    活动规则
+**********/
+.rule_box {
+    width: 570px;
+    height: 825px;
+    position: absolute;
+    top: 123px;
+    left: 34px;
+    z-index: 2;
+    background: url(../images/rule.jpg) no-repeat;
+    display: none;
+}
+
+.rule_box .content {
+    width: 487px;
+    height: 672px;
+    position: absolute;
+    left: 43px;
+    top: 112px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.rule_box .content a {
+    width: 250px;
+    height: 28px;
+    position: absolute;
+    left: 209px;
+    top: 236px;
+}
+
+.rule_box .content .a2 {
+    width: 203px;
+    height: 28px;
+    position: absolute;
+    left: 0px;
+    top: 271px;
+}
+
+
+/*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/
+
+.rule_box .content::-webkit-scrollbar {
+    width: 3px;
+    height: 12px;
+    border-radius: 10px;
+}
+
+
+/*定义滚动条轨道 内阴影+圆角*/
+
+.rule_box .content::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    /* background-color: #e6e6e6; */
+}
+
+
+/* 定义滑块 内阴影+圆角 */
+
+.rule_box .content::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
+    background-color: #f2f2f2;
+}
+
+.rule_box .close_btn {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 20px;
+    right: 17px;
+}
+
+#s1 {
+    /* background: url(../images/bg0.jpg); */
+}
+
+#s2 {
+    background: url(../images/bg1.jpg);
+    background-size: cover;
+}
+
+#s3 {
+    background: url(../images/bg.jpg);
+}
+
+#s3 .item {
+    width: 536px;
+    height: 645px;
+    position: absolute;
+    top: 252px;
+    left: 60px;
+}
+
+#s4 {
+    background: url(../images/bg.jpg);
+}
+
+#s4 .item {
+    width: 442px;
+    height: 645px;
+    position: absolute;
+    top: 252px;
+    left: 100px;
+}
+
+#s4 .code {
+    top: 300px;
+    left: 100px;
+}
+
+#s1 .logo {
+    position: absolute;
+    left: 30px;
+    top: 35px;
+}
+/*iPhoneX的适配*/
+/*iPhone8P的适配*/
+/* @media only screen and (device-width: 414px) and (device-height: 736px) and (-webkit-device-pixel-ratio: 3) {
+    body {
+        background-color: deepskyblue;
+    }
+} */
+@media only screen and (device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3) {
+    #s1 {
+        /* background: url(../images/bg0_x.jpg);
+        background-size: cover; */
+    }
+    #s2 {
+        background: url(../images/bg1_x.jpg);
+        background-size: cover;
+    }
+    #s2 .form {
+        position: absolute;
+        top: 511px;
+        left: 93px;
+    }
+    #s2 .tiaokuan_p {
+        top: 686px;
+    }
+    #s2 .submit_btn {
+        top: 808px;
+    }
+    #s2 .rule_btn {
+        top: 876px;
+    }
+    #s3 {
+        background: url(../images/bg_x.jpg);
+        background-size: cover;
+    }
+    #s4 {
+        background: url(../images/bg_x.jpg);
+        background-size: cover;
+    }
+    .rule_box{
+        top: 222px;
+    }
+    body {
+        /* background-color: deepskyblue; */
+    }
+    html,
+    body {
+        height: 1290px;
+    }
+}
